@@ -1,0 +1,35 @@
+Checklist de accesibilidad – Formulario Participa
+
+Nombre del estudiante: Maiker Padilla
+Fecha: 29/06/26
+Nombre de la rama:Maiker_Padilla
+
+1. ¿El formulario tiene un título claro?
+Respuesta: si, porque el titulo permite entender que el formulario sirve para recoger propuestaa o ideas para la comunidad
+
+2. ¿El formulario explica para qué se usará la información?
+Respuesta:Sí, indica claramente que la información será utilizada únicamente con fines de participación y organización comunitaria.
+
+3. ¿Cada campo tiene un label o etiqueta visible?
+Respuesta: í, todos los campos cuentan con una etiqueta visible que explica qué información debe ingresar el usuario.
+
+4. ¿El lenguaje usado es sencillo y comprensible?
+Respuesta:Sí, utiliza un lenguaje claro, sencillo y fácil de entender para cualquier persona.
+
+5. ¿El formulario evita pedir datos innecesarios?
+Respuesta: Sí, solo solicita la información necesaria para participar y el dato de contacto es opcional.
+
+6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
+Respuesta: Sí, cuenta con un área de texto amplia y una descripción que indica claramente que allí se debe escribir la propuesta o mensaje.
+
+7. ¿El formulario incluye una casilla o mensaje de consentimiento?
+Respuesta: si lo tiene, el me informa el fin con e quee ingreso la informacion en el formulario
+
+8. ¿El botón de envío tiene un texto claro?
+Respuesta: si lo tiene, ya que posee un nombre relacionado con el envio de la informacion de participacion cn las propuestas de òa comunidad
+
+9. ¿La página se puede leer con facilidad?
+Respuesta: Sí, el contenido está organizado de forma ordenada, con títulos, etiquetas y espacios que facilitan la lectura y el diligenciamiento del formulario. 
+
+10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
+Respuesta: Agregaría una opción para aumentar el tamaño del texto, mejoraría el contraste de colores para personas con baja visión y permitiría que el formulario pueda ser utilizado fácilmente con lectores de pantalla.
